@@ -1,0 +1,7 @@
+name: Hiclik
+version: '${project.version}'
+main: com.blach.hiclik.Hiclik
+api-version: 1.18
+authors: [ Blach ]
+description: Tamamen hiçbir şey!
+website: https://melodia.store/
